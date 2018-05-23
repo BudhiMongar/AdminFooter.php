@@ -1,0 +1,1 @@
+# AdminFooter.php
